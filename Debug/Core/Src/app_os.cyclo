@@ -1,0 +1,2 @@
+../Core/Src/app_os.c:26:6:AppOS_CreateObjects	1
+../Core/Src/app_os.c:32:6:AppOS_CreateTasks	1

@@ -1,0 +1,2 @@
+../Core/Src/task_sensor.c:16:23:ir_is_detected	2
+../Core/Src/task_sensor.c:23:6:StartSensorTask	24

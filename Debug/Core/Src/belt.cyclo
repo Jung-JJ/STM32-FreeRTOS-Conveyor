@@ -1,0 +1,3 @@
+../Core/Src/belt.c:33:23:ir_is_detected_now	2
+../Core/Src/belt.c:37:20:belt_apply_conveyor	2
+../Core/Src/belt.c:52:6:Belt_StateMachine_Step	31

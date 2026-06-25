@@ -1,0 +1,3 @@
+../Core/Src/driver_servo.c:19:6:Servo_Init	8	static
+../Core/Src/driver_servo.c:24:6:Servo_WriteUS	32	static
+../Core/Src/driver_servo.c:36:6:Servo_WriteDeg	24	static

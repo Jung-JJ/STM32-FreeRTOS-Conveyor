@@ -1,0 +1,6 @@
+../Core/Src/driver_hmi.c:16:13:drive_led	24	static
+../Core/Src/driver_hmi.c:31:6:HMI_Init	8	static
+../Core/Src/driver_hmi.c:41:6:HMI_SetRun	16	static
+../Core/Src/driver_hmi.c:42:6:HMI_SetStop	16	static
+../Core/Src/driver_hmi.c:43:6:HMI_SetFault	16	static
+../Core/Src/driver_hmi.c:45:6:HMI_Tick	16	static
